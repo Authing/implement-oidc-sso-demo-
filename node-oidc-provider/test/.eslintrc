@@ -1,0 +1,14 @@
+{
+  "env": {
+    "mocha": true
+  },
+  "globals": {
+    "i": true,
+    "instance": true
+  },
+  "rules": {
+    "func-names": "off",
+    "no-unused-expressions": "off",
+    "camelcase": "off"
+  }
+}
